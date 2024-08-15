@@ -1,4 +1,4 @@
-# Compiler-of-questions
+# Compiler of questions
 RAG system based on NeMo-Guardrails
 
 Данный нейро-помощник помогает в составлении вопросов к экамену по заданной базе данных.
